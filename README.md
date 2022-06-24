@@ -4,7 +4,7 @@
 - I had started with a Pi Pico and made an RC turtle with a group of students. 
 - I am now working with Arduino esp32's and looking at their Uno boards. 
 - I am currently trying to make an action figure sized arcade, using said esp32 wroom, for practice.
-- The hope is to scale it into reasonably priced handhelds emulator for them to build.
+- The hope is to scale it into reasonably priced handheld emulator for them to build.
 - I am not really that good at this, but there is a lot of interest from my students.
 - I want to give them the base skills and confidence to explore intrests that seem out of reach. 
 
